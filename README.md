@@ -66,3 +66,11 @@ The focus was on understanding the pipeline, integrating components, and creatin
 
 Kartikey Pathak
 B.Tech CSE Uttarachal University(2027)
+
+Screenshots:-
+
+API Interface
+<img width="1920" height="1080" alt="Screenshot (136)" src="https://github.com/user-attachments/assets/63761eb6-1461-4d7f-957c-2f450f13ce5e" /> 
+
+Sample Response
+<img width="1920" height="1080" alt="Screenshot (137)" src="https://github.com/user-attachments/assets/f864d18a-1f32-40f2-bc0e-e3b0e9f8ea6f" />
